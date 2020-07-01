@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://github.com/NunoPinela/SAPCustomWidget/blob/master/box/box.js",
+			"url": "https://nunopinela.github.io/SAPCustomWidget/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
